@@ -12,12 +12,6 @@ function add2(number) {
   return number += 2
 }
 
-
-
-
-
-
-
 var funkyFunction = function() {
   window.theFunk = 'FUNKY!'
   return function() {
